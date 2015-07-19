@@ -31,6 +31,7 @@ Builder](https://www.qubes-os.org/doc/QubesBuilder/) installed (cloned), then
 place the file as `builder.conf`, then build the template.
 
 There are two possible ways to build the template:
+
 1. Build directly in the environment you've installed the builder (the same VM,
    or even not Qubes system). To do this, execute:
 
